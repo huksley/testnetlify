@@ -4,6 +4,11 @@ This is a small business template built with [Victor Hugo](https://github.com/ne
 
 ## Getting started
 
+### Building
+
+![Build Badge](https://codebuild.eu-west-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoicTZvMy8rVXJxdVRzZVFVWE1xUGhLekU3N3BxUjBEdjNvYmE1MGFDUnV1SXJWekNUNjhwdTdKUWF5UmZGZlNTWUo3WmtZVTd3UHlubUJmL1VuWTllYWhFPSIsIml2UGFyYW1ldGVyU3BlYyI6IkJxRGhDYzRJS3J5WmF6MmMiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+
+
 Use our deploy button to get your own copy of the repository. 
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/one-click-hugo-cms&stack=cms)
